@@ -1,4 +1,4 @@
-# ⚡ Time Series Analysis: Household Power Consumption
+#  Time Series Analysis: Household Power Consumption
 ## Forecasting & Anomaly Detection
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
